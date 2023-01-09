@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  width: 100px;
+  height: 60px;
+}
+
+table {
+  
+
+  border-collapse: collapse;
+  width: 95%;
+  margin: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.cabecera-tabla{
+  margin-right: 500px !important;
+  margin-left: 0px !important;
+  
+  
+}
+
+
+
+td,
+th {
+  text-align: center;
+  border-bottom: black 1px solid;
+  width: 25%;
+  margin: 0px;
+}
+
+
+
+td {
+  padding: 27px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+th {
+  padding: 17px;
+  padding-left: 0;
+  padding-right: 120px;
+
+ 
+}
+
+.boton1 {
+  width: 40px;
+  margin-right: 70px;
+  font-size: 25px;
+  margin-left: 200px;
+}
+
+.boton2 {
+  width: 75px;
+  height: 30px;
+  margin-left: 15px;
+}
+
+.header {
+  background-color: rgb(81, 193, 227);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 70px;
+}
+
+.input1 {
+  height: 30px;
+  margin-right: 25px;
+  width: 330px;
+  opacity: 0.8;
+  border: none;
+  border-radius: 6px;
+}
+
+.input2 {
+  height: 30px;
+  margin-right: 25px;
+  width: 100px;
+  border: none;
+  border-radius: 6px;
+}
+
+h1 {
+  margin-left: 25px;
+  color: white;
+}
+
+.container{
+  color:black;
+  background-color: red;
+}
+
+section {
+  padding: 30px;
+  margin: 0 auto;
+  margin-top: 40px;
+  margin-bottom: 15px;
+  width: 50%;
+  font-size: 30px;
+  border: rgb(224, 224, 224) 1px solid;
+  border-radius: 8px;
+  box-shadow: 4px 2px 2px rgb(197, 197, 197);
+}
+
+.boton-volver {
+  text-align: center;
+
+  margin-top: 30px;
+}
+
+.img-pais {
+  width: 48%;
+  height: 70%;
+}
+
+.titulo-imagen {
+  text-align: center;
+}
+
+.texto-pais {
+  text-align: center;
+}
+
+.azul {
+  color: rgb(0, 116, 225);
+}
